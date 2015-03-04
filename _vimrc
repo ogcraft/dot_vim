@@ -46,7 +46,7 @@ filetype indent on
 "colorscheme solarized
 
 if has('gui_running')
-  set guifont=Monaco:h9
+  set guifont=Monaco\ 10
 endif
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
